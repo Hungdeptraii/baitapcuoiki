@@ -1,0 +1,9 @@
+{
+    "require": {
+        "mongodb/mongodb": "^1.9",
+        "facebook/graph-sdk": "^5.1",
+        "guzzlehttp/guzzle": "^7.9",
+        "symfony/dom-crawler": "^6.0",
+        "symfony/css-selector": "^6.0"
+    }
+}
