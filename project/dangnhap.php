@@ -59,12 +59,12 @@
             <header>Login</header>
             <form action="" method="post">
                 <div class="field input">
-                    <label for="email">Email</label>
+                    <label for="email">Emaiil</label>
                     <input type="text" name="email" id="email" autocomplete="off" required>
                 </div>
 
                 <div class="field input">
-                    <label for="password">Password</label>
+                    <label for="password">Passwordd</label>
                     <input type="password" name="password" id="password" autocomplete="off" required>
                 </div>
 
